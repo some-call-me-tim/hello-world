@@ -1,2 +1,3 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+
+Some-call-me-Tim here. I do not have a formal education or background in programming but have found that it makes my life as a GIS analyst much easier. I have joined git in the hopes of adding to my programming abilities while contributing to some fun projects.
